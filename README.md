@@ -28,3 +28,10 @@ but if you would like to help, contribute to the project! It does not have to be
 - Add a shield power-up
 - Add a speed power-up
 - Add bombs that can be dropped
+
+## Contributing
+If you'd like to contribute, please fork the repository and use a feature
+branch. Pull requests are very welcome.
+
+## License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
