@@ -1,5 +1,7 @@
+# Screen Settings
 SCREEN_HEIGHT = 720
 SCREEN_WIDTH = 1280
 
+# Player Settings
 PLAYER_RADIUS = 20
 LINE_WIDTH = 2
